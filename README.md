@@ -6,9 +6,7 @@
   <samp>
     My name is <strong>Fahad Ahmed</strong>. I am a SE currently exploring Adonis/Node and React/Next... 
   <br/> I have experience in Front-End & Wordpress. 
-    
-      <br/>
-I love solving rubik's cube for fun, reading sci-fi,
+    I love solving rubik's cube for fun, reading sci-fi,
           <br/>
 continuously learning, & wanting to help the community.
   </samp>
