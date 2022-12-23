@@ -41,7 +41,7 @@ continuously learning, & wanting to help the community.
 </p>
 
 ### <img src="https://raw.githubusercontent.com/devfahad/devfahad/master/resources/pickaxe.png" width="40px" /> Languages, Tools, and Frameworks:
-<br> C, C++, JS, PHP, React, Next, Node, Adonis, Wordpress
+   C, C++, JS, Typescript, PHP, SQL, React, Next, Node, Adonis, Wordpress
 
 
 <p align="right">
