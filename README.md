@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm a Frontend Engineer</h1>
-<h3 align="center">A passionate frontend engineer with experience in TypeScript and JavaScript, and expertise in frameworks like React. Currently exploring Next.js and Adonis.js</h3>
+<h3>A passionate frontend engineer with experience in TypeScript and JavaScript, and expertise in frameworks like React. Currently exploring Next.js and Adonis.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfahad&label=Profile%20views&color=0e75b6&style=flat" alt="devfahad" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 I’m currently learning **Adonisjs, Nextjs, CP**
+- 🌱 Currently exploring **Adonisjs, Nextjs, CP**
 
 - 👨‍💻 All of my projects are available at [http://devfahad.com](http://devfahad.com)
-
-- 💬 Ask me about **Html, Css, React, Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/devfahad**
 
