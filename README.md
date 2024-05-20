@@ -5,8 +5,6 @@
 
 - 🌱 Currently exploring **Adonisjs, Nextjs, CP**
 
-- 👨‍💻 All of my projects are available at [http://devfahad.com](http://devfahad.com)
-
 - 📫 How to reach me **https://www.linkedin.com/in/devfahad**
 
 <h3 align="left">Connect with me:</h3>
