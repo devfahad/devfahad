@@ -1,4 +1,4 @@
-<h3>A passionate frontend engineer with experience in TypeScript and JavaScript, and expertise in frameworks like React. Currently exploring Next.js and Adonis.js</h3>
+<h3>A passionate frontend Developer and Tutor with experience in TypeScript and JavaScript, and expertise in frameworks like React. Currently exploring Next.js and Adonis.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfahad&label=Profile%20views&color=0e75b6&style=flat" alt="devfahad" /> </p>
 
