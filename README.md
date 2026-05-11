@@ -28,8 +28,8 @@ Exploring Technology while helping others learn and grow through Programming.
 
 ## 🌍 Connect With Me
 
-<p align="center" target="_blank">
-  <a href="https://github.com/devfahad">
+<p align="center">
+  <a href="https://github.com/devfahad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
